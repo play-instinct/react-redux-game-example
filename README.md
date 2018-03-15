@@ -1,4 +1,6 @@
-# React hot or cold solution
+React Hot or Cold
 
-[GitHub](https://github.com/Thinkful-Ed/react-hot-cold)
+with Redux
+
+no tests
 
